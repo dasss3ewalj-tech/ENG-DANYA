@@ -29,6 +29,7 @@ int main()
 {
     int A[] = { 4, 2, 5, 1 };
     int B[] = { 8, 0, 5, 3 };
+    int c[] = {1,2,3,4};
     int N = sizeof(A) / sizeof(A[0]);
     int K = 3;
 
