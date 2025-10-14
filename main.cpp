@@ -84,6 +84,7 @@ int *constructST(int arr[],int n)
 int main()
 {
     int arr[] = {1, 3, 2, 7, 9, 11};
+    int arr2[] = { 1,2,2,2,2,7 };
     int n = sizeof(arr)/sizeof(arr[0]);
 
     // Build segment tree from given array
